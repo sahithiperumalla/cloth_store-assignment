@@ -1,0 +1,23 @@
+table {
+  border-collapse: collapse;
+  width: 80%;
+  margin: 20px auto;
+}
+
+th, td {
+  border: 1px solid #ccc;
+  padding: 8px 12px;
+}
+
+th {
+  background-color: #f2f2f2;
+  text-align: left;
+}
+
+td {
+  vertical-align: top;
+}
+
+td.productId{
+    text-align: right;
+}
